@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f49b61-2b34-4359-a52c-2c7dac5f0321" name="Changes" comment="" />
+    <list default="true" id="be88b26d-fda7-4023-b9a3-fe97368466e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/out/production/SpeedConverter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/out/production/SpeedConverter/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/src/SpeedConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/DecimalComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +36,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27oSpuCmAIJJEZN2x54XEjs5sL2" />
+  <component name="ProjectId" id="27oTA06DEexvXgGAwjWeLnPaPI2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,17 +50,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ishaqbello/Documents/Documents - Ishaq’s MacBook Pro/Learning/Code/Java/Section4/Coding Exercises/1SpeedConverter"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SpeedConverter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a8f49b61-2b34-4359-a52c-2c7dac5f0321" name="Changes" comment="" />
-      <created>1649985131265</created>
+      <changelist id="be88b26d-fda7-4023-b9a3-fe97368466e6" name="Changes" comment="" />
+      <created>1649985291233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649985131265</updated>
+      <updated>1649985291233</updated>
     </task>
     <servers />
   </component>
